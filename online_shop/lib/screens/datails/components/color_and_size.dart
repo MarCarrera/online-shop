@@ -23,8 +23,8 @@ class ColorAndSize extends StatelessWidget {
               Row(
                 children: const <Widget>[
                   ColorDot(color: Color(0xff356c95), isSelected: true),
-                  ColorDot(color: Color(0xff356c95)),
-                  ColorDot(color: Color(0xff356c95)),
+                  ColorDot(color: Color(0xffA8704C)),
+                  ColorDot(color: Color(0xff8C7483)),
                 ],
               )
             ],
